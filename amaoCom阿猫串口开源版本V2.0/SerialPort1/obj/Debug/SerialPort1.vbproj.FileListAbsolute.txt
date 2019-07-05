@@ -1,0 +1,117 @@
+D:\Visual Studio 2008 Projects\SerialPort1\SerialPort1\bin\Debug\SerialPort1.exe
+D:\Visual Studio 2008 Projects\SerialPort1\SerialPort1\bin\Debug\SerialPort1.pdb
+D:\Visual Studio 2008 Projects\SerialPort1\SerialPort1\bin\Debug\SerialPort1.xml
+D:\Visual Studio 2008 Projects\SerialPort1\SerialPort1\obj\Debug\ResolveAssemblyReference.cache
+D:\Visual Studio 2008 Projects\SerialPort1\SerialPort1\obj\Debug\SerialPort1.FormSerialPort.resources
+D:\Visual Studio 2008 Projects\SerialPort1\SerialPort1\obj\Debug\SerialPort1.Resources.resources
+D:\Visual Studio 2008 Projects\SerialPort1\SerialPort1\obj\Debug\SerialPort1.vbproj.GenerateResource.Cache
+D:\Visual Studio 2008 Projects\SerialPort1\SerialPort1\obj\Debug\SerialPort1.exe
+D:\Visual Studio 2008 Projects\SerialPort1\SerialPort1\obj\Debug\SerialPort1.xml
+D:\Visual Studio 2008 Projects\SerialPort1\SerialPort1\obj\Debug\SerialPort1.pdb
+F:\Visual Studio Projects\Basic\SerialPort1\SerialPort1\obj\Debug\SerialPort1.exe
+F:\Visual Studio Projects\Basic\SerialPort1\SerialPort1\obj\Debug\SerialPort1.xml
+F:\Visual Studio Projects\Basic\SerialPort1\SerialPort1\obj\Debug\SerialPort1.pdb
+F:\Visual Studio Projects\Basic\SerialPort1\SerialPort1\bin\Debug\SerialPort1.exe
+F:\Visual Studio Projects\Basic\SerialPort1\SerialPort1\bin\Debug\SerialPort1.pdb
+F:\Visual Studio Projects\Basic\SerialPort1\SerialPort1\bin\Debug\SerialPort1.xml
+F:\Visual Studio Projects\Basic\SerialPort1\SerialPort1\obj\Debug\ResolveAssemblyReference.cache
+F:\Visual Studio Projects\Basic\SerialPort1\SerialPort1\obj\Debug\SerialPort1.FormSerialPort.resources
+F:\Visual Studio Projects\Basic\SerialPort1\SerialPort1\obj\Debug\SerialPort1.Resources.resources
+F:\Visual Studio Projects\Basic\SerialPort1\SerialPort1\obj\Debug\SerialPort1.vbproj.GenerateResource.Cache
+F:\Visual Studio Projects\Basic\SerialPort1\SerialPort1\obj\Debug\SerialPort1.AboutBox1.resources
+D:\Visual Studio 2008 Projects\SerialPort1\SerialPort1\obj\Debug\SerialPort1.AboutBox1.resources
+D:\Visual Studio 2008 Projects\SerialPort1\SerialPort1\bin\Debug\SerialPort1.exe.config
+D:\Visual Studio 2008 Projects\SerialPort1 - V1.4.0 - 通用\SerialPort1\obj\Debug\ResolveAssemblyReference.cache
+D:\Visual Studio 2008 Projects\SerialPort1 - V1.4.0 - 通用\SerialPort1\obj\Debug\SerialPort1.AboutBox1.resources
+D:\Visual Studio 2008 Projects\SerialPort1 - V1.4.0 - 通用\SerialPort1\obj\Debug\SerialPort1.FormSerialPort.resources
+D:\Visual Studio 2008 Projects\SerialPort1 - V1.4.0 - 通用\SerialPort1\obj\Debug\SerialPort1.Resources.resources
+D:\Visual Studio 2008 Projects\SerialPort1 - V1.4.0 - 通用\SerialPort1\obj\Debug\SerialPort1.vbproj.GenerateResource.Cache
+D:\Visual Studio 2008 Projects\SerialPort1 - V1.4.0 - 通用\SerialPort1\obj\Debug\SerialPort1.exe
+D:\Visual Studio 2008 Projects\SerialPort1 - V1.4.0 - 通用\SerialPort1\obj\Debug\SerialPort1.xml
+D:\Visual Studio 2008 Projects\SerialPort1 - V1.4.0 - 通用\SerialPort1\obj\Debug\SerialPort1.pdb
+D:\Visual Studio 2008 Projects\SerialPort1 - V1.4.0 - 通用\SerialPort1\bin\Debug\SerialPort1.exe.config
+D:\Visual Studio 2008 Projects\SerialPort1 - V1.4.0 - 通用\SerialPort1\bin\Debug\SerialPort1.exe
+D:\Visual Studio 2008 Projects\SerialPort1 - V1.4.0 - 通用\SerialPort1\bin\Debug\SerialPort1.pdb
+D:\Visual Studio 2008 Projects\SerialPort1 - V1.4.0 - 通用\SerialPort1\bin\Debug\SerialPort1.xml
+C:\Users\Administrator\Desktop\SerialPort1 - V1.4.0 - 通用\SerialPort1\bin\Debug\SerialPort1.exe.config
+C:\Users\Administrator\Desktop\SerialPort1 - V1.4.0 - 通用\SerialPort1\obj\Debug\SerialPort1.exe
+C:\Users\Administrator\Desktop\SerialPort1 - V1.4.0 - 通用\SerialPort1\obj\Debug\SerialPort1.xml
+C:\Users\Administrator\Desktop\SerialPort1 - V1.4.0 - 通用\SerialPort1\obj\Debug\SerialPort1.pdb
+C:\Users\Administrator\Desktop\SerialPort1 - V1.4.0 - 通用\SerialPort1\bin\Debug\SerialPort1.exe
+C:\Users\Administrator\Desktop\SerialPort1 - V1.4.0 - 通用\SerialPort1\bin\Debug\SerialPort1.pdb
+C:\Users\Administrator\Desktop\SerialPort1 - V1.4.0 - 通用\SerialPort1\bin\Debug\SerialPort1.xml
+C:\Users\Administrator\Desktop\SerialPort1 - V1.4.0 - 通用\SerialPort1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\SerialPort1 - V1.4.0 - 通用\SerialPort1\obj\Debug\SerialPort1.AboutBox1.resources
+C:\Users\Administrator\Desktop\SerialPort1 - V1.4.0 - 通用\SerialPort1\obj\Debug\SerialPort1.FormSerialPort.resources
+C:\Users\Administrator\Desktop\SerialPort1 - V1.4.0 - 通用\SerialPort1\obj\Debug\SerialPort1.Resources.resources
+C:\Users\Administrator\Desktop\SerialPort1 - V1.4.0 - 通用\SerialPort1\obj\Debug\SerialPort1.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\阿猫串口基础源代码工程-可直接运行\SerialPort1\obj\Debug\SerialPort1.exe
+C:\Users\Administrator\Desktop\阿猫串口基础源代码工程-可直接运行\SerialPort1\obj\Debug\SerialPort1.xml
+C:\Users\Administrator\Desktop\阿猫串口基础源代码工程-可直接运行\SerialPort1\obj\Debug\SerialPort1.pdb
+C:\Users\Administrator\Desktop\阿猫串口基础源代码工程-可直接运行\SerialPort1\bin\Debug\SerialPort1.exe
+C:\Users\Administrator\Desktop\阿猫串口基础源代码工程-可直接运行\SerialPort1\bin\Debug\SerialPort1.pdb
+C:\Users\Administrator\Desktop\阿猫串口基础源代码工程-可直接运行\SerialPort1\bin\Debug\SerialPort1.xml
+C:\Users\Administrator\Desktop\阿猫串口基础源代码工程-可直接运行\SerialPort1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\阿猫串口基础源代码工程-可直接运行\SerialPort1\obj\Debug\SerialPort1.AboutBox1.resources
+C:\Users\Administrator\Desktop\阿猫串口基础源代码工程-可直接运行\SerialPort1\obj\Debug\SerialPort1.FormSerialPort.resources
+C:\Users\Administrator\Desktop\阿猫串口基础源代码工程-可直接运行\SerialPort1\obj\Debug\SerialPort1.Resources.resources
+C:\Users\Administrator\Desktop\阿猫串口基础源代码工程-可直接运行\SerialPort1\obj\Debug\SerialPort1.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\源码：阿猫串口基础工程-可直接运行\阿猫串口基础源代码工程-可直接运行\SerialPort1\obj\Debug\SerialPort1.exe
+C:\Users\Administrator\Desktop\源码：阿猫串口基础工程-可直接运行\阿猫串口基础源代码工程-可直接运行\SerialPort1\obj\Debug\SerialPort1.xml
+C:\Users\Administrator\Desktop\源码：阿猫串口基础工程-可直接运行\阿猫串口基础源代码工程-可直接运行\SerialPort1\obj\Debug\SerialPort1.pdb
+C:\Users\Administrator\Desktop\源码：阿猫串口基础工程-可直接运行\阿猫串口基础源代码工程-可直接运行\SerialPort1\bin\Debug\SerialPort1.exe
+C:\Users\Administrator\Desktop\源码：阿猫串口基础工程-可直接运行\阿猫串口基础源代码工程-可直接运行\SerialPort1\bin\Debug\SerialPort1.pdb
+C:\Users\Administrator\Desktop\源码：阿猫串口基础工程-可直接运行\阿猫串口基础源代码工程-可直接运行\SerialPort1\bin\Debug\SerialPort1.xml
+C:\Users\Administrator\Desktop\源码：阿猫串口基础工程-可直接运行\阿猫串口基础源代码工程-可直接运行\SerialPort1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\源码：阿猫串口基础工程-可直接运行\阿猫串口基础源代码工程-可直接运行\SerialPort1\obj\Debug\SerialPort1.AboutBox1.resources
+C:\Users\Administrator\Desktop\源码：阿猫串口基础工程-可直接运行\阿猫串口基础源代码工程-可直接运行\SerialPort1\obj\Debug\SerialPort1.FormSerialPort.resources
+C:\Users\Administrator\Desktop\源码：阿猫串口基础工程-可直接运行\阿猫串口基础源代码工程-可直接运行\SerialPort1\obj\Debug\SerialPort1.Resources.resources
+C:\Users\Administrator\Desktop\源码：阿猫串口基础工程-可直接运行\阿猫串口基础源代码工程-可直接运行\SerialPort1\obj\Debug\SerialPort1.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\源码：阿猫串口基础工程-可直接运行\阿猫串口学习源码工程-可直接运行\SerialPort1\obj\Debug\SerialPort1.exe
+C:\Users\Administrator\Desktop\源码：阿猫串口基础工程-可直接运行\阿猫串口学习源码工程-可直接运行\SerialPort1\obj\Debug\SerialPort1.xml
+C:\Users\Administrator\Desktop\源码：阿猫串口基础工程-可直接运行\阿猫串口学习源码工程-可直接运行\SerialPort1\obj\Debug\SerialPort1.pdb
+C:\Users\Administrator\Desktop\源码：阿猫串口基础工程-可直接运行\阿猫串口学习源码工程-可直接运行\SerialPort1\bin\Debug\SerialPort1.exe
+C:\Users\Administrator\Desktop\源码：阿猫串口基础工程-可直接运行\阿猫串口学习源码工程-可直接运行\SerialPort1\bin\Debug\SerialPort1.pdb
+C:\Users\Administrator\Desktop\源码：阿猫串口基础工程-可直接运行\阿猫串口学习源码工程-可直接运行\SerialPort1\bin\Debug\SerialPort1.xml
+C:\Users\Administrator\Desktop\源码：阿猫串口基础工程-可直接运行\阿猫串口学习源码工程-可直接运行\SerialPort1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\源码：阿猫串口基础工程-可直接运行\阿猫串口学习源码工程-可直接运行\SerialPort1\obj\Debug\SerialPort1.AboutBox1.resources
+C:\Users\Administrator\Desktop\源码：阿猫串口基础工程-可直接运行\阿猫串口学习源码工程-可直接运行\SerialPort1\obj\Debug\SerialPort1.FormSerialPort.resources
+C:\Users\Administrator\Desktop\源码：阿猫串口基础工程-可直接运行\阿猫串口学习源码工程-可直接运行\SerialPort1\obj\Debug\SerialPort1.Resources.resources
+C:\Users\Administrator\Desktop\源码：阿猫串口基础工程-可直接运行\阿猫串口学习源码工程-可直接运行\SerialPort1\obj\Debug\SerialPort1.vbproj.GenerateResource.Cache
+D:\myFiles\amaoCom\AmaoComSerialPort-master\SerialPort1\obj\Debug\SerialPort1.exe
+D:\myFiles\amaoCom\AmaoComSerialPort-master\SerialPort1\obj\Debug\SerialPort1.xml
+D:\myFiles\amaoCom\AmaoComSerialPort-master\SerialPort1\obj\Debug\SerialPort1.pdb
+D:\myFiles\amaoCom\AmaoComSerialPort-master\SerialPort1\bin\Debug\SerialPort1.exe
+D:\myFiles\amaoCom\AmaoComSerialPort-master\SerialPort1\bin\Debug\SerialPort1.pdb
+D:\myFiles\amaoCom\AmaoComSerialPort-master\SerialPort1\bin\Debug\SerialPort1.xml
+D:\myFiles\amaoCom\AmaoComSerialPort-master\SerialPort1\obj\Debug\ResolveAssemblyReference.cache
+D:\myFiles\amaoCom\AmaoComSerialPort-master\SerialPort1\obj\Debug\SerialPort1.AboutBox1.resources
+D:\myFiles\amaoCom\AmaoComSerialPort-master\SerialPort1\obj\Debug\SerialPort1.FormSerialPort.resources
+D:\myFiles\amaoCom\AmaoComSerialPort-master\SerialPort1\obj\Debug\SerialPort1.Resources.resources
+D:\myFiles\amaoCom\AmaoComSerialPort-master\SerialPort1\obj\Debug\SerialPort1.vbproj.GenerateResource.Cache
+D:\myFiles\amaoCom\amaoCom猫猫串口开源V2.0\SerialPort1\obj\Debug\SerialPort1.exe
+D:\myFiles\amaoCom\amaoCom猫猫串口开源V2.0\SerialPort1\obj\Debug\SerialPort1.xml
+D:\myFiles\amaoCom\amaoCom猫猫串口开源V2.0\SerialPort1\obj\Debug\SerialPort1.pdb
+D:\4.myFiles\amaoCom\amaoCom猫猫串口开源V2.0\SerialPort1\obj\Debug\SerialPort1.exe
+D:\4.myFiles\amaoCom\amaoCom猫猫串口开源V2.0\SerialPort1\obj\Debug\SerialPort1.xml
+D:\4.myFiles\amaoCom\amaoCom猫猫串口开源V2.0\SerialPort1\obj\Debug\SerialPort1.pdb
+D:\4.myFiles\amaoCom\amaoCom猫猫串口开源V2.0\SerialPort1\bin\Debug\SerialPort1.exe
+D:\4.myFiles\amaoCom\amaoCom猫猫串口开源V2.0\SerialPort1\bin\Debug\SerialPort1.pdb
+D:\4.myFiles\amaoCom\amaoCom猫猫串口开源V2.0\SerialPort1\bin\Debug\SerialPort1.xml
+D:\4.myFiles\amaoCom\amaoCom猫猫串口开源V2.0\SerialPort1\obj\Debug\SerialPort1.AboutBox1.resources
+D:\4.myFiles\amaoCom\amaoCom猫猫串口开源V2.0\SerialPort1\obj\Debug\SerialPort1.FormSerialPort.resources
+D:\4.myFiles\amaoCom\amaoCom猫猫串口开源V2.0\SerialPort1\obj\Debug\SerialPort1.Resources.resources
+D:\4.myFiles\amaoCom\amaoCom猫猫串口开源V2.0\SerialPort1\obj\Debug\SerialPort1.vbproj.GenerateResource.Cache
+D:\4.myFiles\amaoCom\amaoCom猫猫串口开源V2.0\SerialPort1\obj\Debug\SerialPort1.vbprojResolveAssemblyReference.cache
+D:\amaoCom\amaoCom猫猫串口开源V2.0\SerialPort1\obj\Debug\SerialPort1.vbproj.GenerateResource.Cache
+D:\amaoCom\amaoCom猫猫串口开源V2.0\SerialPort1\obj\Debug\SerialPort1.vbproj.CoreCompileInputs.cache
+D:\amaoCom\amaoCom猫猫串口开源V2.0\SerialPort1\bin\Debug\amaoComOpenS.exe.config
+D:\amaoCom\amaoCom猫猫串口开源V2.0\SerialPort1\bin\Debug\amaoComOpenS.exe
+D:\amaoCom\amaoCom猫猫串口开源V2.0\SerialPort1\bin\Debug\amaoComOpenS.pdb
+D:\amaoCom\amaoCom猫猫串口开源V2.0\SerialPort1\bin\Debug\amaoComOpenS.xml
+D:\amaoCom\amaoCom猫猫串口开源V2.0\SerialPort1\obj\Debug\amaoComOpenS.AboutBox1.resources
+D:\amaoCom\amaoCom猫猫串口开源V2.0\SerialPort1\obj\Debug\amaoComOpenS.FormSerialPort.resources
+D:\amaoCom\amaoCom猫猫串口开源V2.0\SerialPort1\obj\Debug\amaoComOpenS.Resources.resources
+D:\amaoCom\amaoCom猫猫串口开源V2.0\SerialPort1\obj\Debug\amaoComOpenS.exe
+D:\amaoCom\amaoCom猫猫串口开源V2.0\SerialPort1\obj\Debug\amaoComOpenS.xml
+D:\amaoCom\amaoCom猫猫串口开源V2.0\SerialPort1\obj\Debug\amaoComOpenS.pdb
